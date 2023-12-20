@@ -1,0 +1,122 @@
+﻿[
+    {
+        "origin": "衣索比亞",
+        "name": "藝妓村 果利藝妓 綠標 lot065",
+        "process": "日曬",
+        "class": "A",
+        "description": "茉莉/柳橙/莓果/奶油",
+        "hp_price": "680",
+        "qp_price": "340",
+        "msg": "新上架！"
+    },
+    {
+        "origin": "衣索比亞",
+        "name": "耶加雪菲 班可 切切雷",
+        "process": "厭氧日曬",
+        "class": "B",
+        "description": "玫瑰/柳橙/櫻桃巧克力/鳳梨/葡萄",
+        "hp_price": "480",
+        "qp_price": "240",
+        "msg": ""
+    },
+    {
+        "origin": "衣索比亞",
+        "name": "罕貝拉 瓦米娜",
+        "process": "厭氧日曬",
+        "class": "B",
+        "description": "白蘭地/熱帶水果軟糖/鳳梨乾/橘子汁",
+        "hp_price": "480",
+        "qp_price": "240",
+        "msg": ""
+    },
+    {
+        "origin": "衣索比亞",
+        "name": "班奇馬吉 露西藝伎 G1",
+        "process": "日曬",
+        "class": "B",
+        "description": "野薑花/接骨木/蘋果醬/養樂多/黃檸檬",
+        "hp_price": "480",
+        "qp_price": "240",
+        "msg": "新上架！"
+    },
+    {
+        "origin": "衣索比亞",
+        "name": "班奇馬吉 歌姬藝伎",
+        "process": "日曬",
+        "class": "B",
+        "description": "玉蘭花/橘子汁/莓果/烤布丁",
+        "hp_price": "480",
+        "qp_price": "240",
+        "msg": ""
+    },
+    {
+        "origin": "衣索比亞",
+        "name": "古吉 安娜索拉",
+        "process": "水洗",
+        "class": "B",
+        "description": "檸檬/花香/桃子/黑糖",
+        "hp_price": "480",
+        "qp_price": "240",
+        "msg": ""
+    },
+    {
+        "origin": "衣索比亞",
+        "name": "耶加雪菲 柏畢夏奇拉",
+        "process": "水洗",
+        "class": "B",
+        "description": "香料/黃檸檬/花香/紅糖",
+        "hp_price": "480",
+        "qp_price": "240",
+        "msg": ""
+    },
+    {
+        "origin": "瓜地馬拉",
+        "name": "薇薇特南果 伊麗莎白 薇拉莎奇",
+        "process": "水洗",
+        "class": "B",
+        "description": "白花/藍莓/柑橘/核桃/鮮奶油",
+        "hp_price": "480",
+        "qp_price": "240",
+        "msg": ""
+    },
+    {
+        "origin": "尼加拉瓜",
+        "name": "希諾特加 極光莊園 爪哇種",
+        "process": "日曬",
+        "class": "B",
+        "description": "茉莉花/杏仁/熱帶水果/蜂蜜/香草牛奶",
+        "hp_price": "480",
+        "qp_price": "240",
+        "msg": "新上架！"
+    },
+    {
+        "origin": "瓜地馬拉",
+        "name": "產區競賽亞軍 波旁種",
+        "process": "水洗",
+        "class": "B",
+        "description": "柑橘/蘋果/香草/焦糖/巧克力",
+        "hp_price": "480",
+        "qp_price": "240",
+        "msg": "新上架！"
+    },
+    {
+        "origin": "印尼",
+        "name": "PWN 曼特寧 G1 三次手選",
+        "process": "半水洗",
+        "class": "C",
+        "description": "黑糖/奶油/香料",
+        "hp_price": "300",
+        "qp_price": "150",
+        "msg": ""
+    },
+    {
+        "origin": "配方",
+        "name": "波豆特選義式豆",
+        "process": "水洗",
+        "class": "C",
+        "description": "陳皮梅/巧克力/紅糖/奶油",
+        "hp_price": "300",
+        "qp_price": "150",
+        "msg": ""
+    }
+]
